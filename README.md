@@ -92,7 +92,11 @@ My tech stack includes NextJS, ReactJS, NodeJS, NestJS, SQL Server, PostgreSQL a
   </table>
 </p>
 
-<!-- ![snake gif](https://raw.githubusercontent.com/faber1999/portfolio/122f34e51127da96b5a3af4936c89d15b0708d17/public/faber-contribution.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/faber1999/faber1999/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/faber1999/faber1999/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/faber1999/faber1999/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif?raw=true" height="32px">
 
