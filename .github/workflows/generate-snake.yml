@@ -3,6 +3,7 @@ name: Generate Snake Contribution Graph
 on:
   schedule:
     - cron: '0 22 * * *'
+  workflow_dispatch: # Permite ejecutar el workflow manualmente
 
 jobs:
   generate-snake:
