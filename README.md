@@ -83,10 +83,10 @@ My tech stack includes NextJS, ReactJS, NodeJS, NestJS, SQL Server, PostgreSQL a
       <td width="50%" align="center">
         <img  align="center" src="https://my-github-stats.fabergrajales.com/api?username=faber1999&theme=dark&show_icons=true&count_private=true" />
         <br></br>
-        <img align="center" src="https://streak-stats.demolab.com?user=faber1999&theme=whatsapp-dark&border_radius=10&mode=weekly" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=faber1999&theme=whatsapp-dark&border_radius=10&mode=weekly" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=faber1999&theme=whatsapp-dark&border_radius=10&mode=weekly" alt="GitHub Streak" />
+        <img  align="center" src="https://my-github-stats.fabergrajales.com/api/top-langs/?username=faber1999&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
       </td>
     </tr>
   </table>
