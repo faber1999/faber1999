@@ -81,9 +81,9 @@ My tech stack includes NextJS, ReactJS, NodeJS, NestJS, SQL Server, PostgreSQL a
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img  align="center"  src="https://my-github-stats.fabergrajales.com/api?username=faber1999&theme=dark&show_icons=true&count_private=true" />
+        <img  align="center" src="https://my-github-stats.fabergrajales.com/api?username=faber1999&theme=dark&show_icons=true&count_private=true" />
         <br></br>
-        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Faber Grajales" src="https://streak-stats.demolab.com?user=faber1999&theme=whatsapp-dark&border_radius=10&mode=weekly" />
+        <img align="center" src="https://streak-stats.demolab.com?user=faber1999&theme=whatsapp-dark&border_radius=10&mode=weekly" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
         <img  align="center" src="https://my-github-stats.fabergrajales.com/api/top-langs/?username=faber1999&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
