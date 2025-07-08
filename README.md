@@ -1,6 +1,6 @@
 # Hi there 👋 I'm [Faber Grajales Hincapié](https://fabergrajales.com)
 
-<p><em>FullStack Developer & Team Lead</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+> **FullStack Developer & Frontend Team Lead** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <img align='right' src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="240">
 
@@ -36,6 +36,9 @@ I'm a **FullStack Developer** and **Frontend Team Lead** with over **7 years of 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-FF6B35?style=flat&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
 
 ## 🏆 Professional Highlights
@@ -81,7 +84,7 @@ I'm a **FullStack Developer** and **Frontend Team Lead** with over **7 years of 
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://fabergrajales.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
