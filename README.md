@@ -1,96 +1,58 @@
-### Hi there <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif?raw=true" width="25px"> I'm [Faber Grajales Hincapié](https://fabergrajales.com)
->
-><p><em>FullStack Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+# Hi there 👋 I'm [Faber Grajales Hincapié](https://fabergrajales.com)
+
+<p><em>FullStack Developer & Team Lead</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <img align='right' src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="240">
 
-<div>
-  <p>
-I am a FullStack developer with over 6 years of experience, passionate about creating innovative digital experiences and using technology to solve complex problems. Throughout my career, I have had the opportunity to work on a wide range of projects, from building dynamic and engaging user interfaces to implementing scalable and secure backends. My focus has always been to ensure that each solution I develop meets the highest standards of quality, efficiency, and usability.
+## 👨‍💻 About Me
 
-My tech stack includes NextJS, ReactJS, NodeJS, NestJS, SQL Server, PostgreSQL among other modern tools that enable me to create complete and optimized applications. I am committed to developing robust solutions that can scale with the project's needs, and I enjoy exploring new technologies that help me continuously improve. This profile reflects my passion for FullStack development and my dedication to excellence in every project I undertake.
-  </p>
+I'm a **FullStack Developer** and **Frontend Team Lead** with over **7 years of experience** building innovative digital solutions. Currently leading frontend development at **Celuweb**, where I focus on creating scalable architectures and mentoring development teams.
+
+🔭 **Currently working on:** Complex web applications with modern tech stacks  
+🌱 **Learning:** Advanced TypeScript patterns and cloud architectures  
+💡 **Passionate about:** Clean code, performance optimization, and team mentorship  
+🎯 **Goal:** Building robust, scalable solutions that solve real-world problems
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+
+## 🏆 Professional Highlights
+
+- 🎯 **Frontend Team Lead** at Celuweb - Leading development teams and architectural decisions
+- 🚀 Built **complex components**: Drag & Drop survey builder, dynamic reporting systems, hierarchical management
+- 📊 Worked on **banking solutions** at Sophos for Banco Popular
+- 🏢 Developed applications for major companies: **Ramo, Alquería, Postobón**
+- 📜 **Certified** Vue.js Mid-Level Developer & Scrum Master Professional
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=faber1999&theme=whatsapp-dark&border_radius=10&mode=weekly" alt="GitHub Streak" style="max-width: 100%">
 </div>
 
-
-## <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif?raw=true" width="22px"> Technologies
-
-<br>
-
-<p style="display: inline-block;" align="center">
-  <kbd style="background: transparent;">
-    <kbd style="background: #000000;color: #fff; font-weight: 600;">Programming Languages</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-    <img width="30px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
-    <img width="27px" src="https://cdn.svgporn.com/logos/c-sharp.svg" />
-    
-  </kbd>
-   <kbd style="background: transparent;">
-    <kbd style="background: #000000;color: #fff; font-weight: 600;">Back-end</kbd>
-    <br>
-    <br>
-    <img width="27px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />
-    <img width="30px" src="https://cdn.svgporn.com/logos/nestjs.svg" />
-    <img width="30px" src="https://cdn.svgporn.com/logos/dotnet.svg" />
-  </kbd>
-  <kbd style="background: transparent;">
-    <kbd style="background: #000000;color: #fff; font-weight: 600;">Front-end</kbd>
-    <br>
-    <br>
-    <img width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
-    <img width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-    <img width="30px" src="https://cdn.svgporn.com/logos/react.svg" />
-    <img width="30px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" />
-    <img width="37px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
-  </kbd>
-  <kbd style="background: transparent;">
-    <kbd style="background: #000000;color: #fff; font-weight: 600;">Database</kbd>
-    <br>
-    <br>
-    <img width="30px" title="SQL SERVER" src="https://www.svgrepo.com/show/473725/microsoftsqlserver.svg" />
-    <img width="30px" title="PostgreSQL" src="https://cdn.svgporn.com/logos/postgresql.svg" />
-  </kbd>
-  <br>
-  <br>
-  <kbd style="background: transparent;">
-    <kbd style="background: #000000;color: #fff; font-weight: 600;">System, Networking & Deployment</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.svgporn.com/logos/github-octocat.svg" />
-    <img width="28px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
-  </kbd>
-  <kbd style="background: transparent;">
-    <kbd style="background: #000000;color: #fff; font-weight: 600;">Terminal Scripts</kbd>
-    <br>
-    <br>
-    <img width="27px" src="https://cdn.svgporn.com/logos/bash-icon.svg" />
-  </kbd>
-  <kbd style="background: transparent;">
-    <kbd style="background: #000000;color: #fff; font-weight: 600;">Tools</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
-  </kbd>
-</p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img  align="center" src="https://my-github-stats.fabergrajales.com/api?username=faber1999&theme=dark&show_icons=true&count_private=true" />
-        <br></br>
-        <img src="https://streak-stats.demolab.com/?user=faber1999&theme=whatsapp-dark&border_radius=10&mode=weekly" alt="GitHub Streak" style="max-width: 100%">
-      </td>
-      <td width="50%" align="center">
-        <img  align="center" src="https://my-github-stats.fabergrajales.com/api/top-langs/?username=faber1999&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-      </td>
-    </tr>
-  </table>
-</p>
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/faber1999/faber1999/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -98,26 +60,39 @@ My tech stack includes NextJS, ReactJS, NodeJS, NestJS, SQL Server, PostgreSQL a
   <img alt="github-snake" src="https://github.com/faber1999/faber1999/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif?raw=true" height="32px">
+## 🎓 Recent Certifications
 
-  <br>
+- 🏅 **Certified Mid-Level Vue.js Developer** (2025)
+- 📚 **TypeScript: Complete Guide** (2024)
+- 🤖 **OpenAI: Practical Exercises with React + NestJS** (2024)
+- ⚡ **Zustand - State Manager for React** (2024)
+- 🔧 **DevOps Essentials Professional Certificate** (2021)
+
+## 📫 Let's Connect!
+
+<div align="left">
   <a href="https://www.linkedin.com/in/faber-grajales-hincapié-3919b6198/" target="_blank">
-    <img align="left" alt="Faber Grajales | Linkedin" width="24px" src="https://raw.githubusercontent.com/SatYu26/SatYu26/c58140b559bf4b3c4d324b8edbd61bc11e7095cf/Assets/Linkedin.svg" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fabergrajales1999@gmail.com" target="_blank">
-    <img align="left" alt="Faber Grajales | Gmail" width="26px" src="https://raw.githubusercontent.com/SatYu26/SatYu26/c58140b559bf4b3c4d324b8edbd61bc11e7095cf/Assets/Gmail.svg" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://wa.me/+573146310397" target="_blank">
-    <img align="left" alt="Faber Grajales | Whatsapp" width="26px" src="https://cdn.svgporn.com/logos/whatsapp-icon.svg" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="www.fabergrajales.com" target="_blank">
-    <img align="left" alt="Faber Grajales | Portfolio" width="26px" src="https://www.svgrepo.com/show/106961/portfolio.svg" />
+  <a href="https://fabergrajales.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+</div>
 
-<br><br>
+---
 
-### Thanks for visiting <img src="https://media.giphy.com/media/xT0GqkVV1VtG7tqS08/giphy.gif" height="15px">
-
-![VisitorCount](https://profile-counter.glitch.me/faber1999/count.svg)
-
-⭐️ From [Faber Grajales Hincapié](https://github.com/faber1999)
+<div align="center">
+  <h3>Visitor Count</h3>
+  
+  ![VisitorCount](https://profile-counter.glitch.me/faber1999/count.svg)
+  
+  **Thanks for visiting!** ⭐️ 
+  
+  *Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
+</div>
